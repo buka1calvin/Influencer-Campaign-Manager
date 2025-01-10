@@ -1,0 +1,135 @@
+{
+    "campaigns": [
+      {
+        "id": "1",
+        "name": "Winter Collection Launch",
+        "description": "Promote our new winter collection to a broader audience.",
+        "deadline": "2025-01-31T23:59:59Z",
+        "status": "Ongoing",
+        "createdBy": "user1"
+      },
+      {
+        "id": "2",
+        "name": "Spring Sale Campaign",
+        "description": "Advertise our spring discounts.",
+        "deadline": "2025-03-15T23:59:59Z",
+        "status": "Ongoing",
+        "createdBy": "user2"
+      },
+      {
+        "id": "3",
+        "name": "Summer Swimwear Promotion",
+        "description": "Focus on swimwear for the summer season.",
+        "deadline": "2025-05-31T23:59:59Z",
+        "status": "Ongoing",
+        "createdBy": "user3"
+      },
+      {
+        "id": "4",
+        "name": "Back to School Deals",
+        "description": "Highlight our back-to-school offers.",
+        "deadline": "2025-08-01T23:59:59Z",
+        "status": "Completed",
+        "createdBy": "user4"
+      },
+      {
+        "id": "5",
+        "name": "Holiday Gift Guide",
+        "description": "Promote our holiday gifts.",
+        "deadline": "2024-12-20T23:59:59Z",
+        "status": "Ongoing",
+        "createdBy": "user5"
+      },
+      {
+        "id": "6",
+        "name": "Eco-Friendly Products Campaign",
+        "description": "Raise awareness about our eco-friendly line.",
+        "deadline": "2025-04-22T23:59:59Z",
+        "status": "Ongoing",
+        "createdBy": "user6"
+      },
+      {
+        "id": "7",
+        "name": "New Year Fitness Promotion",
+        "description": "Showcase fitness gear for New Year resolutions.",
+        "deadline": "2025-01-15T23:59:59Z",
+        "status": "Completed",
+        "createdBy": "user7"
+      },
+      {
+        "id": "8",
+        "name": "Digital Gadgets Sale",
+        "description": "Promote discounts on digital gadgets.",
+        "deadline": "2025-06-01T23:59:59Z",
+        "status": "Ongoing",
+        "createdBy": "user8"
+      }
+    ],
+    "submissions": [
+      {
+        "id": "1",
+        "campaign": "1",
+        "influencer": "user9",
+        "contentLink": "https://example.com/winter-launch-promo",
+        "submissionDate": "2025-01-10T12:00:00Z",
+        "status": "Pending"
+      },
+      {
+        "id": "2",
+        "campaign": "2",
+        "influencer": "user10",
+        "contentLink": "https://example.com/spring-sale-ad",
+        "submissionDate": "2025-01-11T15:30:00Z",
+        "status": "Approved"
+      },
+      {
+        "id": "3",
+        "campaign": "3",
+        "influencer": "user11",
+        "contentLink": "https://example.com/summer-swimwear",
+        "submissionDate": "2025-01-12T10:45:00Z",
+        "status": "Rejected"
+      },
+      {
+        "id": "4",
+        "campaign": "4",
+        "influencer": "user12",
+        "contentLink": "https://example.com/back-to-school",
+        "submissionDate": "2025-01-09T14:20:00Z",
+        "status": "Pending"
+      },
+      {
+        "id": "5",
+        "campaign": "5",
+        "influencer": "user13",
+        "contentLink": "https://example.com/holiday-gifts",
+        "submissionDate": "2025-01-10T09:00:00Z",
+        "status": "Approved"
+      },
+      {
+        "id": "6",
+        "campaign": "6",
+        "influencer": "user14",
+        "contentLink": "https://example.com/eco-friendly-products",
+        "submissionDate": "2025-01-08T16:50:00Z",
+        "status": "Rejected"
+      },
+      {
+        "id": "7",
+        "campaign": "7",
+        "influencer": "user15",
+        "contentLink": "https://example.com/fitness-promo",
+        "submissionDate": "2025-01-10T11:30:00Z",
+        "status": "Pending"
+      },
+      {
+        "id": "8",
+        "campaign": "8",
+        "influencer": "user16",
+        "contentLink": "https://example.com/digital-gadgets",
+        "submissionDate": "2025-01-10T13:15:00Z",
+        "status": "Approved"
+      }
+    ]
+  }
+  
